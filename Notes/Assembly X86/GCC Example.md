@@ -9,7 +9,7 @@ I decided to start with the assembly code cause it'll be more fun.
 This code have some instructions that does the common stuff in weird ways, whatever was the reason for that, they are still the generic things in c functions.
 
 ###### First block
-![[./Attachments/Pasted image 20210218121747.png]]
+![](./Attachments/Pasted image 20210218121747.png)
 
 ---
 
