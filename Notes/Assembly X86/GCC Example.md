@@ -1,5 +1,5 @@
 #### Compilation
-![[Pasted image 20210218103945.png]]
+![[Attachments/Pasted%20image%2020210218103945.png]]
 
 #### Assembly code
 I decided to start with the assembly code cause it'll be more fun.
