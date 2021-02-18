@@ -38,7 +38,7 @@ It's the combination of
 
 #### cmp
 `cmp	destination, source`
-Compares `source` to `destination` to set the [[Registers#FLAGS|FLAGS]] register. Either the source or the destination can be [[Addressing forms#r m32|r\m32]] or a *register*.
+Compares `source` to `destination` to set the ![FLAGS](Registers#FLAGS) register. Either the source or the destination can be [[Addressing forms#r m32|r\m32]] or a *register*.
 
 #### test
 `test	destination, source`
